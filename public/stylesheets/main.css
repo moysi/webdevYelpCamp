@@ -1,0 +1,28 @@
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail{
+    padding: .5em;
+}
+
+.thumbnail .caption-full{
+    padding: 12px;
+}
+
+#campground img{
+    height: 180px;
+}
+
+.delete-form{
+    display: inline;
+}
+
+#more-info{
+    margin: 2px;
+}
+
+#back-btn{
+    display: inline;
+    
+}
